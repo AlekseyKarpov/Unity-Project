@@ -20584,10 +20584,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 252605683}
-  damping: 1
+  damping: 0.1
   lookAheadFactor: 3
-  lookAheadReturnSpeed: 0.5
-  lookAheadMoveThreshold: 0.1
+  lookAheadReturnSpeed: 1
+  lookAheadMoveThreshold: 0.2
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
